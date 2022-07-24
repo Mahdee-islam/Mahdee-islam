@@ -1,10 +1,10 @@
-### Hey there 👋, my name is Mahdee Islam.
-#### I am a frontend developer.
-![I am a front end developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Mahdee
+#### I am a front end developer.
+![I am a front end developer.](https://scontent.fdac14-1.fna.fbcdn.net/v/t1.6435-9/69529095_500016320570110_917308145733206016_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEM-2rJ8fDvbOAkpL_olePRdse3tq6TRjV2x7e2rpNGNbbxy8HNufZSv-duMEbR7stPTcAKnnH26BW5Pv0P5ycj&_nc_ohc=LWpCPb30QsQAX95xEPu&_nc_ht=scontent.fdac14-1.fna&oh=00_AT_zp7lJd9KZdhnauBANAR5dDDXKQgaEe7rPEFI_6KIUbQ&oe=630277E9)
 
 I am highly motivated and passionate about building top-level web application using REACT.I have some relevant skills include debugging, DNS management, Database, Authentication and so on.
 
-Skills: REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap
+Skills: REACT / JS / HTML / CSS/Tailwind CSS/Bootstrap
 
 - 🔭 I’m currently working on REACT 
 - 🌱 I’m currently learning JavaScript 
